@@ -359,7 +359,7 @@ MigrationBackup/
 .ionide/
 
 # Remove Manifest file
-/Manifest
+.Manifest/
 
 # Remove local dev files
 /.vscode
