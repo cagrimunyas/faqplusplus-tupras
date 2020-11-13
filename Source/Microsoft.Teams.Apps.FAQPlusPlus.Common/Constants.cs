@@ -63,22 +63,22 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Common
         /// <summary>
         /// TeamTour - text that triggers team tour action.
         /// </summary>
-        public const string TeamTour = "team tour";
+        public const string TeamTour = "takım turu";
 
         /// <summary>
         /// TakeAtour - text that triggers take a tour action for the user.
         /// </summary>
-        public const string TakeATour = "take a tour";
+        public const string TakeATour = "uygulama turu";
 
         /// <summary>
         /// AskAnExpert - text that renders the ask an expert card.
         /// </summary>
-        public const string AskAnExpert = "ask an expert";
+        public const string AskAnExpert = "uzmana sor";
 
         /// <summary>
         /// Feedback - text that renders share feedback card.
         /// </summary>
-        public const string ShareFeedback = "share feedback";
+        public const string ShareFeedback = "geri bildirim paylaş";
 
         /// <summary>
         /// Table name where SME activity details from bot will be saved.

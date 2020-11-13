@@ -756,7 +756,7 @@ namespace Microsoft.Teams.Apps.FAQPlusPlus.Bots
         /// <param name="turnContext">Context object containing information cached for a single turn of conversation with a user.</param>
         /// <param name="cancellationToken">Propagates notification that operations should be canceled.</param>
         /// <returns>A task that represents the work queued to execute.</returns>
-        private async Task OnMessageActivityInPersonalChatAsync(
+        private async Task  OnMessageActivityInPersonalChatAsync(
             IMessageActivity message,
             ITurnContext<IMessageActivity> turnContext,
             CancellationToken cancellationToken)
